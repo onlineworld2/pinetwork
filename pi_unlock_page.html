@@ -106,7 +106,7 @@
 </head>
 <body>
 
-  <img src="https://cryptologos.cc/logos/pi-network-pi-logo.png" alt="Pi Logo" class="logo">
+  <img src="https://ik.imagekit.io/digitalmake/Pi.jpg?updatedAt=1749459936327" alt="Pi Logo" class="logo">
 
   <h2>Locked Pi Unlock Event <span class="highlight">Celebrating the 6th Anniversary and Mainnet Launch</span></h2>
   <p>As a token of appreciation to the entire Pi community, the project team will unlock and release all locked Pi for pioneers who have supported the project over the past 6 years.</p>
